@@ -231,6 +231,3 @@ Multi-Agent/
 ├── requirements.txt     # Project dependencies
 └── README.md           # This file
 ```
-
-
-**Created with ❤️ using LangChain + LangGraph**
